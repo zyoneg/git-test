@@ -6,3 +6,10 @@ void hello() {
 }
 
 这是git测试文件
+
+#############
+第三次测试
+
+void hi() {
+    std::cout << "hi" << std::endl;
+}
