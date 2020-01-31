@@ -1,1 +1,8 @@
 the first line
+
+
+void hello() {
+    std::cout << "hello" << std::endl;
+}
+
+这是git测试文件
