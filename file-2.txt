@@ -4,6 +4,7 @@
 
 int main()
 {
-    std::cout << "HELLO WORLD" << std::endl;
+    std::cout << "hello world" << std::endl;
+    std::cout << "new branch on dev" << std::endl;
     return 0;
 }
