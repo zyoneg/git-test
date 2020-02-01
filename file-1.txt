@@ -13,3 +13,7 @@ void hello() {
 void hi() {
     std::cout << "hi" << std::endl;
 }
+
+classA *list = new classA[10];
+classA ca = list[0];
+ca.x = 10;
